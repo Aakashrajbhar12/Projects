@@ -1,0 +1,10 @@
+streamlit
+sklearn
+bs4
+lxml
+numpy
+pandas
+requests
+urllib3
+
+
